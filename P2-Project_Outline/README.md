@@ -22,4 +22,4 @@ The name of my project is "smart calendar". It's a calendar just like any other 
 ### What I'll Have to Learn
 I'll have to learn how to add phone call, text message and email into my app.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/LbxTCnIb
