@@ -7,7 +7,9 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
+https://wireframe.cc/dcitDs
+https://wireframe.cc/dcitDs
+https://wireframe.cc/dcitDs
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
