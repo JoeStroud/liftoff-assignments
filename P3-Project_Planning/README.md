@@ -15,6 +15,7 @@ https://wireframe.cc/dcitDs
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/LbxTCnIb/smart-calendar
 
 ### Project Repo Link
 
