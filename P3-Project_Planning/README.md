@@ -19,4 +19,5 @@ https://trello.com/b/LbxTCnIb/smart-calendar
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+Include a link to your project on GitHub. 
+https://github.com/JoeStroud/calendar
