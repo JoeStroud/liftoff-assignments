@@ -8,9 +8,11 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+https://github.com/JoeStroud
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/joseph-stroud-21066414a/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
